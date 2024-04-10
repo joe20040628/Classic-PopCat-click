@@ -30,7 +30,7 @@ body{
     -webkit-text-stroke-width: 3px;
     -webkit-text-stroke-color: black;
 
-    background-image: url("imgs/p.png");
+    background-image: url( "imgs/p.png" );
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: contain;
